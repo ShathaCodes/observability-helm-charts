@@ -1,5 +1,7 @@
 # Helm Chart to Deploy an Observability Stack
 
+[![example workflow](https://gitlab.com/ShathaCodes/observability-helm-charts/badges/main/pipeline.svg)](https://gitlab.com/ShathaCodes/observability-helm-charts/-/pipelines/614373747)
+
 ## Deploy the Stack
 
 ```
